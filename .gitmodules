@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "intervalaverage"]
 	path = intervalaverage
 	url = https://github.com/cran/intervalaverage
-	shallow = true
-	registered = true
